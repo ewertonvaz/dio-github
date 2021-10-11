@@ -1,0 +1,20 @@
+Lançado em 1995:
+	- Mocca, Livescript e por úlitmo JavaScript
+ECMAScript:
+	-ES2018
+		-rest/spread
+		-iteração assíncrona
+		-Promise.prototype.finally()
+	-ES.Next
+
+- É uma linguagem Interpretada
+- Tipagem fraca e dinâmica
+
+Typescript:
+- Superset de Javascript, adiciona funcionalidades e orientação a objeto, também limitações de tipagem
+
+-Funções de Primeira Classe:
+	- pode ser atribuída a variavel, a uma estrtura de dados e passada como argumento ou retornada por outra fução.
+
+-Funções de Ordem Maior:
+	- Closure: escopo léxico
